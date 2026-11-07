@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "reanimated-web-resize-repro",
+    "slug": "reanimated-web-resize-repro",
+    "web": { "bundler": "metro" }
+  }
+}
